@@ -14,6 +14,8 @@
 - [Lab 3 - Command Pattern](https://github.com/MichaelRRyan/GE-Command-Pattern)
 - [Lab 4 - Entity Component System](https://github.com/MichaelRRyan/GE-ECS)
 - [Lab 5 - Unit Testing with CppUnit](https://github.com/MichaelRRyan/GE-Unit-Testing)
+- [Lab 6 - Erlang Record Management](https://github.com/MichaelRRyan/GE-Erlang-Basics)
+- [Project - Multithreaded A* Ambush](https://github.com/MichaelRRyan/GE-A-Star-Threading)
 
 > Artificial Intelligence for Games
 - [Lab 1 to 3 - Small Plane Game with AI](https://github.com/MichaelRRyan/AI-for-Games-Labs)
